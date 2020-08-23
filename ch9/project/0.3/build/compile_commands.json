@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/ht/slambook/ch9/project/0.3/build/src",
+  "command": "g++   -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -I/home/ht/slambook/ch4/Sophus -I/home/ht/slambook/ch9/project/0.3/include  -std=c++11 -march=native -O3 -g -fPIC   -o CMakeFiles/myslam.dir/frame.cpp.o -c /home/ht/slambook/ch9/project/0.3/src/frame.cpp",
+  "file": "/home/ht/slambook/ch9/project/0.3/src/frame.cpp"
+},
+{
+  "directory": "/home/ht/slambook/ch9/project/0.3/build/src",
+  "command": "g++   -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -I/home/ht/slambook/ch4/Sophus -I/home/ht/slambook/ch9/project/0.3/include  -std=c++11 -march=native -O3 -g -fPIC   -o CMakeFiles/myslam.dir/mappoint.cpp.o -c /home/ht/slambook/ch9/project/0.3/src/mappoint.cpp",
+  "file": "/home/ht/slambook/ch9/project/0.3/src/mappoint.cpp"
+},
+{
+  "directory": "/home/ht/slambook/ch9/project/0.3/build/src",
+  "command": "g++   -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -I/home/ht/slambook/ch4/Sophus -I/home/ht/slambook/ch9/project/0.3/include  -std=c++11 -march=native -O3 -g -fPIC   -o CMakeFiles/myslam.dir/map.cpp.o -c /home/ht/slambook/ch9/project/0.3/src/map.cpp",
+  "file": "/home/ht/slambook/ch9/project/0.3/src/map.cpp"
+},
+{
+  "directory": "/home/ht/slambook/ch9/project/0.3/build/src",
+  "command": "g++   -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -I/home/ht/slambook/ch4/Sophus -I/home/ht/slambook/ch9/project/0.3/include  -std=c++11 -march=native -O3 -g -fPIC   -o CMakeFiles/myslam.dir/camera.cpp.o -c /home/ht/slambook/ch9/project/0.3/src/camera.cpp",
+  "file": "/home/ht/slambook/ch9/project/0.3/src/camera.cpp"
+},
+{
+  "directory": "/home/ht/slambook/ch9/project/0.3/build/src",
+  "command": "g++   -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -I/home/ht/slambook/ch4/Sophus -I/home/ht/slambook/ch9/project/0.3/include  -std=c++11 -march=native -O3 -g -fPIC   -o CMakeFiles/myslam.dir/config.cpp.o -c /home/ht/slambook/ch9/project/0.3/src/config.cpp",
+  "file": "/home/ht/slambook/ch9/project/0.3/src/config.cpp"
+},
+{
+  "directory": "/home/ht/slambook/ch9/project/0.3/build/src",
+  "command": "g++   -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -I/home/ht/slambook/ch4/Sophus -I/home/ht/slambook/ch9/project/0.3/include  -std=c++11 -march=native -O3 -g -fPIC   -o CMakeFiles/myslam.dir/g2o_types.cpp.o -c /home/ht/slambook/ch9/project/0.3/src/g2o_types.cpp",
+  "file": "/home/ht/slambook/ch9/project/0.3/src/g2o_types.cpp"
+},
+{
+  "directory": "/home/ht/slambook/ch9/project/0.3/build/src",
+  "command": "g++   -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -I/home/ht/slambook/ch4/Sophus -I/home/ht/slambook/ch9/project/0.3/include  -std=c++11 -march=native -O3 -g -fPIC   -o CMakeFiles/myslam.dir/visual_odometry.cpp.o -c /home/ht/slambook/ch9/project/0.3/src/visual_odometry.cpp",
+  "file": "/home/ht/slambook/ch9/project/0.3/src/visual_odometry.cpp"
+},
+{
+  "directory": "/home/ht/slambook/ch9/project/0.3/build/test",
+  "command": "g++    -I/usr/include/eigen3 -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -I/home/ht/slambook/ch4/Sophus -I/home/ht/slambook/ch9/project/0.3/include  -std=c++11 -march=native -O3 -g   -o CMakeFiles/run_vo.dir/run_vo.cpp.o -c /home/ht/slambook/ch9/project/0.3/test/run_vo.cpp",
+  "file": "/home/ht/slambook/ch9/project/0.3/test/run_vo.cpp"
+}
+]
