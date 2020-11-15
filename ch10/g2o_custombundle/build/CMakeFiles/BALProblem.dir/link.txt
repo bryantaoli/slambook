@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-5 -fPIC -O3 -std=c++11 -O3 -DNDEBUG -shared -Wl,-soname,libBALProblem.so -o libBALProblem.so CMakeFiles/BALProblem.dir/common/BALProblem.cpp.o 

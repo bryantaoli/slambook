@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/ht/slambook/ch10/g2o_custombundle/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5 -DParseCmd_EXPORTS -I/usr/local/include/eigen3 -I/usr/include/suitesparse -I/home/ht/slambook/ch10/g2o_custombundle/ceres -I/home/ht/slambook/ch10/g2o_custombundle/common -I/home/ht/slambook/ch10/g2o_custombundle/common/tools -I/home/ht/slambook/ch10/g2o_custombundle/common/flags -O3 -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ParseCmd.dir/common/flags/command_args.cpp.o -c /home/ht/slambook/ch10/g2o_custombundle/common/flags/command_args.cpp",
+  "file": "/home/ht/slambook/ch10/g2o_custombundle/common/flags/command_args.cpp"
+},
+{
+  "directory": "/home/ht/slambook/ch10/g2o_custombundle/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5  -I/usr/local/include/eigen3 -I/usr/include/suitesparse -I/home/ht/slambook/ch10/g2o_custombundle/ceres -I/home/ht/slambook/ch10/g2o_custombundle/common -I/home/ht/slambook/ch10/g2o_custombundle/common/tools -I/home/ht/slambook/ch10/g2o_custombundle/common/flags -O3 -std=c++11 -O3 -DNDEBUG -o CMakeFiles/g2o_customBundle.dir/g2o_bundle.cpp.o -c /home/ht/slambook/ch10/g2o_custombundle/g2o_bundle.cpp",
+  "file": "/home/ht/slambook/ch10/g2o_custombundle/g2o_bundle.cpp"
+},
+{
+  "directory": "/home/ht/slambook/ch10/g2o_custombundle/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5 -DBALProblem_EXPORTS -I/usr/local/include/eigen3 -I/usr/include/suitesparse -I/home/ht/slambook/ch10/g2o_custombundle/ceres -I/home/ht/slambook/ch10/g2o_custombundle/common -I/home/ht/slambook/ch10/g2o_custombundle/common/tools -I/home/ht/slambook/ch10/g2o_custombundle/common/flags -O3 -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/BALProblem.dir/common/BALProblem.cpp.o -c /home/ht/slambook/ch10/g2o_custombundle/common/BALProblem.cpp",
+  "file": "/home/ht/slambook/ch10/g2o_custombundle/common/BALProblem.cpp"
+}
+]

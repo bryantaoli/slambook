@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "g2o_customBundle",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BALProblem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BALProblem-Release-43db55b7a2db08c9c192.json",
+					"name" : "BALProblem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ParseCmd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ParseCmd-Release-5dd7cc8abc66ddfffe82.json",
+					"name" : "ParseCmd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "g2o_customBundle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-g2o_customBundle-Release-a06cbc0c9f4aad273a26.json",
+					"name" : "g2o_customBundle",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ht/slambook/ch10/g2o_custombundle/build",
+		"source" : "/home/ht/slambook/ch10/g2o_custombundle"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}
