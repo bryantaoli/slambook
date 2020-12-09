@@ -1,0 +1,4 @@
+/home/ht/slambook/ch12/build/CMakeFiles/edit_cache.dir
+/home/ht/slambook/ch12/build/CMakeFiles/feature_training.dir
+/home/ht/slambook/ch12/build/CMakeFiles/rebuild_cache.dir
+/home/ht/slambook/ch12/build/CMakeFiles/loop_closure.dir
