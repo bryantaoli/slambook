@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "octomap_mapping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-octomap_mapping-Release-4dc6de049f4aea01ed3d.json",
+					"name" : "octomap_mapping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointcloud_mapping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointcloud_mapping-Release-0a7f1f5bbfb4d0b51ca3.json",
+					"name" : "pointcloud_mapping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "surfel_mapping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-surfel_mapping-Release-d530e449114cfdceec37.json",
+					"name" : "surfel_mapping",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ht/slambook/ch13/dense_RGBD/build",
+		"source" : "/home/ht/slambook/ch13/dense_RGBD"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}
